@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Bankism</title>
+  
+  <subtitle>银行教——我们的教义是公平</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://bankism.github.io/"/>
+  <updated>2020-01-25T09:46:12.000Z</updated>
+  <id>https://bankism.github.io/</id>
+  
+  <author>
+    <name>Bankism</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>银行教——新兴宗教的传承</title>
+    <link href="https://bankism.github.io/2020/01/25/Bankism-Dev-of-New-Religion/"/>
+    <id>https://bankism.github.io/2020/01/25/Bankism-Dev-of-New-Religion/</id>
+    <published>2020-01-25T09:29:17.000Z</published>
+    <updated>2020-01-25T09:46:12.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="新时代，新宗教"><a href="#新时代，新宗教" class="headerlink" title="新时代，新宗教"></a>新时代，新宗教</h1><p>人的作为会影响他的运气</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;新时代，新宗教&quot;&gt;&lt;a href=&quot;#新时代，新宗教&quot; class=&quot;headerlink&quot; title=&quot;新时代，新宗教&quot;&gt;&lt;/a&gt;新时代，新宗教&lt;/h1&gt;&lt;p&gt;人的作为会影响他的运气&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="history" scheme="https://bankism.github.io/tags/history/"/>
+    
+      <category term="idea" scheme="https://bankism.github.io/tags/idea/"/>
+    
+      <category term="development" scheme="https://bankism.github.io/tags/development/"/>
+    
+  </entry>
+  
+</feed>
